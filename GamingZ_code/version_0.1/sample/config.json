@@ -1,0 +1,5 @@
+{
+  "windowed": true,
+  "python": 3.12,
+  "requirement": ["pygame"]
+}
